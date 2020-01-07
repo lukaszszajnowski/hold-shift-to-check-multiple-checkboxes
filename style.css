@@ -1,0 +1,16 @@
+html {
+  background-color: #7fa998;
+}
+
+.inbox {
+  margin: auto;
+  width: 350px;
+}
+
+.item:nth-child(even) {
+  background-color: #df8543;
+}
+
+.item:nth-child(odd) {
+  background-color: #f1f1b0;
+}
